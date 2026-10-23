@@ -1,0 +1,7 @@
+Profile,Scenario,Avg_Response_Time_ms,P95_Response_Time_ms,Throughput_RPS,Failure_Rate_Pct,CPU_Customers_Pct,CPU_Vets_Pct,Total_Requests
+Perfil 1 (Leitura),A (30 users),18.5,35.2,210.4,0.0,22.4,12.1,75744
+Perfil 1 (Leitura),B (80 users),42.1,98.4,485.2,0.02,54.8,28.3,174672
+Perfil 1 (Leitura),C (150 users),128.6,310.5,620.1,0.45,88.2,42.6,223236
+Perfil 2 (Escrita),A (30 users),34.2,78.1,165.8,0.0,38.5,10.5,59688
+Perfil 2 (Escrita),B (80 users),115.4,280.9,310.2,0.15,82.1,21.4,111672
+Perfil 2 (Escrita),C (150 users),385.7,890.2,342.5,2.18,96.5,24.1,123300
